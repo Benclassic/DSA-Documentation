@@ -1,2 +1,8 @@
 # DSA-Documentation
-This Is Where i Started My Dsa Data Analysis Portfolio Building Class On DSA
+
+##Project Topic: E Commerce Sales Analysis
+
+###Project Overview
+
+This Data Analysis Project Aims To Generate Insight Into The Sales Performance Of The E Commerce Project Over The Past Year.
+
